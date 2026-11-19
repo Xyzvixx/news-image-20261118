@@ -1,8 +1,8 @@
 # The World in One Day — 18 November 2026
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-news--image--20261118-b3271e)](https://make.fun/bounty/news-image-20261118)
-[![GitHub stars](https://img.shields.io/github/stars/Xyzvixx/news-image-20261118)](https://github.com/Xyzvixx/news-image-20261118)
-[![License: MIT](https://img.shields.io/github/license/Xyzvixx/news-image-20261118)](LICENSE)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/Xyzvixx/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/Xyzvixx/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 A single 1024×1024 newspaper front page covering **50 verified stories** from
 Wednesday 18 November 2026 (UTC) — every story sourced from wire reports filed
